@@ -15,6 +15,7 @@ class TrustProxies
      */
     protected $proxies = '*';
 
+    
     /**
      * Handle an incoming request.
      *
